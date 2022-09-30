@@ -12,7 +12,7 @@ O projeto tem como objetivo meu portfólio pessoal que apresenta alguns dos meus
 
 ## Preview
 Interface do usuário.
-</br>
+</br> 
 
 <p align="center">
   <kbd>
