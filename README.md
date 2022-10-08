@@ -8,7 +8,7 @@ Portfolio
 
 </br>
 
-O projeto tem como objetivo meu portfólio pessoal que apresenta alguns dos meus projetos no github e habilidades técnicas
+O projeto tem como objetivo meu portfólio pessoal que apresenta alguns dos meus projetos no github e habilidades técnicas.
 
 ## Preview
 Interface do usuário.
